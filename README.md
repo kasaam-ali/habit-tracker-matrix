@@ -53,15 +53,14 @@ Install Required System Dependencies:
 ```Bash
    npm install
    npm install lucide-react
-Launch the Local Micro-Service Server:
 ```
-
+Launch the Local Micro-Service Server:
 ```Bash
    npm run dev
 ```
 Open http://localhost:5173 inside your modern web browser instance to monitor active viewport configurations.
 
-##📝 Technical Inclusions Documentation
+## 📝 Technical Inclusions Documentation
 Detailed conceptual analysis documentation, engineering decisions, visual hierarchy logic justifications, accessibility compromises, and product scaling vectors are explicitly documented under the ANSWERS.md directory configuration map.
 
 Developed with 💙 by Kasaam Ali for the Dev Weekends Fellowship Selection Committee.
