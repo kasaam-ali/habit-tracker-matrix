@@ -37,6 +37,8 @@ habit-tracker/
 ├── index.html              # Main application markup shell
 ├── package.json            # Project dependencies and deployment configurations
 └── tailwind.config.js      # Global Tailwind structural content configurations
+
+```
 ## 💻 Local Installation & Setup
 Follow these simple steps to spin up the local development server workspace on your laptop:
 
@@ -56,7 +58,8 @@ Bash
 npm run dev
 Open http://localhost:5173 inside your modern web browser instance to monitor active viewport configurations.
 
-📝 Technical Inclusions Documentation
+##📝 Technical Inclusions Documentation
 Detailed conceptual analysis documentation, engineering decisions, visual hierarchy logic justifications, accessibility compromises, and product scaling vectors are explicitly documented under the ANSWERS.md directory configuration map.
 
 Developed with 💙 by Kasaam Ali for the Dev Weekends Fellowship Selection Committee.
+
