@@ -40,26 +40,28 @@ habit-tracker/
 
 ```
 ## 💻 Local Installation & Setup
+
 Follow these simple steps to spin up the local development server workspace on your laptop:
 
-Clone the Repository:
-
-Bash
-git clone https://github.com/kasaam-ali/habit-tracker-matrix.git
-cd YOUR_REPO_NAME 
+1. **Clone the Repository:**
+```bash
+   git clone [https://github.com/kasaam-ali/habit-tracker-matrix.git](https://github.com/kasaam-ali/habit-tracker-matrix.git)
+   cd habit-tracker-matrix
+```
 Install Required System Dependencies:
 
-Bash
-npm install
-npm install lucide-react
+```Bash
+   npm install
+   npm install lucide-react
 Launch the Local Micro-Service Server:
+```
 
-Bash
-npm run dev
+```Bash
+   npm run dev
+```
 Open http://localhost:5173 inside your modern web browser instance to monitor active viewport configurations.
 
 ##📝 Technical Inclusions Documentation
 Detailed conceptual analysis documentation, engineering decisions, visual hierarchy logic justifications, accessibility compromises, and product scaling vectors are explicitly documented under the ANSWERS.md directory configuration map.
 
 Developed with 💙 by Kasaam Ali for the Dev Weekends Fellowship Selection Committee.
-
